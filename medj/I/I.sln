@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I_Bad", "I_Bad\I_Bad.csproj", "{D95AF908-E24E-4F08-87A3-0DC59BC19D86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I_Good", "I_Good\I_Good.csproj", "{63A317C4-A226-49B2-B863-21C5087CA7F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D95AF908-E24E-4F08-87A3-0DC59BC19D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95AF908-E24E-4F08-87A3-0DC59BC19D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95AF908-E24E-4F08-87A3-0DC59BC19D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95AF908-E24E-4F08-87A3-0DC59BC19D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A317C4-A226-49B2-B863-21C5087CA7F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A317C4-A226-49B2-B863-21C5087CA7F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A317C4-A226-49B2-B863-21C5087CA7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A317C4-A226-49B2-B863-21C5087CA7F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

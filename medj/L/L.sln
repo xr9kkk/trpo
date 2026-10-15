@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L_Bad", "L_Bad\L_Bad.csproj", "{DBF4DBF7-8B34-4788-B7E6-41872A92104A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L_Good", "L_Good\L_Good.csproj", "{8BDABE3D-5D2A-4EE8-86F6-CEFAD8E53F38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBF4DBF7-8B34-4788-B7E6-41872A92104A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF4DBF7-8B34-4788-B7E6-41872A92104A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF4DBF7-8B34-4788-B7E6-41872A92104A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF4DBF7-8B34-4788-B7E6-41872A92104A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BDABE3D-5D2A-4EE8-86F6-CEFAD8E53F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDABE3D-5D2A-4EE8-86F6-CEFAD8E53F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDABE3D-5D2A-4EE8-86F6-CEFAD8E53F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDABE3D-5D2A-4EE8-86F6-CEFAD8E53F38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

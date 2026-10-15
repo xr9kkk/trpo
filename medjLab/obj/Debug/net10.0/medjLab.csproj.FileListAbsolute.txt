@@ -1,0 +1,14 @@
+D:\учеба\trpo\medjLab\medjLab\bin\Debug\net10.0\medjLab.exe
+D:\учеба\trpo\medjLab\medjLab\bin\Debug\net10.0\medjLab.deps.json
+D:\учеба\trpo\medjLab\medjLab\bin\Debug\net10.0\medjLab.runtimeconfig.json
+D:\учеба\trpo\medjLab\medjLab\bin\Debug\net10.0\medjLab.dll
+D:\учеба\trpo\medjLab\medjLab\bin\Debug\net10.0\medjLab.pdb
+D:\учеба\trpo\medjLab\medjLab\obj\Debug\net10.0\medjLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\trpo\medjLab\medjLab\obj\Debug\net10.0\medjLab.AssemblyInfoInputs.cache
+D:\учеба\trpo\medjLab\medjLab\obj\Debug\net10.0\medjLab.AssemblyInfo.cs
+D:\учеба\trpo\medjLab\medjLab\obj\Debug\net10.0\medjLab.csproj.CoreCompileInputs.cache
+D:\учеба\trpo\medjLab\medjLab\obj\Debug\net10.0\medjLab.dll
+D:\учеба\trpo\medjLab\medjLab\obj\Debug\net10.0\refint\medjLab.dll
+D:\учеба\trpo\medjLab\medjLab\obj\Debug\net10.0\medjLab.pdb
+D:\учеба\trpo\medjLab\medjLab\obj\Debug\net10.0\medjLab.genruntimeconfig.cache
+D:\учеба\trpo\medjLab\medjLab\obj\Debug\net10.0\ref\medjLab.dll

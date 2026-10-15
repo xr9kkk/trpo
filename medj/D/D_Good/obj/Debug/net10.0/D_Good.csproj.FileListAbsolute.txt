@@ -1,0 +1,14 @@
+C:\Users\Forev\RiderProjects\D\D_Good\bin\Debug\net10.0\D_Good.exe
+C:\Users\Forev\RiderProjects\D\D_Good\bin\Debug\net10.0\D_Good.deps.json
+C:\Users\Forev\RiderProjects\D\D_Good\bin\Debug\net10.0\D_Good.runtimeconfig.json
+C:\Users\Forev\RiderProjects\D\D_Good\bin\Debug\net10.0\D_Good.dll
+C:\Users\Forev\RiderProjects\D\D_Good\bin\Debug\net10.0\D_Good.pdb
+C:\Users\Forev\RiderProjects\D\D_Good\obj\Debug\net10.0\D_Good.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Forev\RiderProjects\D\D_Good\obj\Debug\net10.0\D_Good.AssemblyInfoInputs.cache
+C:\Users\Forev\RiderProjects\D\D_Good\obj\Debug\net10.0\D_Good.AssemblyInfo.cs
+C:\Users\Forev\RiderProjects\D\D_Good\obj\Debug\net10.0\D_Good.csproj.CoreCompileInputs.cache
+C:\Users\Forev\RiderProjects\D\D_Good\obj\Debug\net10.0\D_Good.dll
+C:\Users\Forev\RiderProjects\D\D_Good\obj\Debug\net10.0\refint\D_Good.dll
+C:\Users\Forev\RiderProjects\D\D_Good\obj\Debug\net10.0\D_Good.pdb
+C:\Users\Forev\RiderProjects\D\D_Good\obj\Debug\net10.0\D_Good.genruntimeconfig.cache
+C:\Users\Forev\RiderProjects\D\D_Good\obj\Debug\net10.0\ref\D_Good.dll
